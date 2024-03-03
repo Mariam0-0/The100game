@@ -1,7 +1,8 @@
-# File: CS112_A1_T2_Game1_20230394.py
+# File: The 100 Game.py
 # Purpose: Two players start from 0 and alternatively add a number from 1 to 10 to the sum . The player who reaches 100 wins.
 # Author: Mariam Abdelrahman Youssef Mohamed
-# ID: 20230394
+# Date: 3/3/2024
+# Version: 2.0
 
 valid_option = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]  # list of all valid numbers that a player can choose
 
